@@ -6,4 +6,4 @@ EVMC4Uを使用したサンプルアプリ
 - EVMC4UとEasyMotionRecorderでキャラクターのモーションを記録する
 
 ## 動作環境
-- Unity 2019.4.29
+- Unity 2019.4.29f1
